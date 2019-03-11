@@ -1,6 +1,8 @@
 # Gofore hagaton 2019
 
-ESP32 firmware and android application, which both resolve virtual machines IP using mDns, then exchange data via MQTT messagebroker. All three components must run in same subnet.
+ESP32 firmware and android application, which both resolve virtual machines IP using mDns, then exchange data via MQTT messagebroker. All three components must run in same subnet, like so:
+
+![img](readme_assets/network.jpg)
 
 ## MQTT / mDns server
 
