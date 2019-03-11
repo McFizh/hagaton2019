@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hagaton 2019</string>
+    <string name="select_mqtt">Select MQTT server</string>
+    <string name="title_activity_data">DataActivity</string>
+</resources>
